@@ -1,7 +1,5 @@
 #!/usr/bin/env python
-"""WIP"""
-import itertools
-import operator
+"""Advent of Code 2017 - Day 3 (http://adventofcode.com/2017/day/3)"""
 
 
 def gen_spiral(n):
