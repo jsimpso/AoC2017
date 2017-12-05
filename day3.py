@@ -41,7 +41,6 @@ def move(direction, repeats):
         x = location[0]
         y = location[1]
         z = 0
-        # LOOK FOR NEIGHBOURS
         if direction == 'up':
             y += 1
         elif direction == 'down':
